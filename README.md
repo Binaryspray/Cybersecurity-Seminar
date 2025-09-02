@@ -5,7 +5,9 @@ This project is intended as a shared space to store presentation materials, hand
 
 ---
 
-## 📂 Repository Structure
+## 📂 Contribution Guidelines
+
+### Repository Structure
 security-study-lab/  
 ├── seminars/ # Presentation slides and notes  
 ├── labs/ # Hands-on exercises and demo code  
@@ -13,6 +15,10 @@ security-study-lab/
 └── docs/ # Internal guides, checklists, rules  
 
 ---
+
+### File Naming Convention
+Inside each session folder, use the following format:  
+`name-category.pdf`  
 
 ## 🎯 Purpose
 - Support team seminars and workshops  
