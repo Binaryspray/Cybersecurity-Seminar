@@ -7,10 +7,10 @@ This project is intended as a shared space to store presentation materials, hand
 
 ## 📂 Repository Structure
 security-study-lab/
-├── seminars/ # Presentation slides and notes
-├── labs/ # Hands-on exercises and demo code
-├── references/ # Papers, articles, and external resources
-└── docs/ # Internal guides, checklists, rules
+├── seminars/ # Presentation slides and notes  
+├── labs/ # Hands-on exercises and demo code  
+├── references/ # Papers, articles, and external resources  
+└── docs/ # Internal guides, checklists, rules  
 
 ---
 
