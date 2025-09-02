@@ -14,11 +14,11 @@ security-study-lab/
 ├── references/ # Papers, articles, and external resources  
 └── docs/ # Internal guides, checklists, rules  
 
----
-
 ### File Naming Convention
 Inside each session folder, use the following format:  
 `name-category.pdf`  
+
+---
 
 ## 🎯 Purpose
 - Support team seminars and workshops  
